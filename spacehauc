@@ -54,10 +54,10 @@
                         <a href="index.html">About Me</a>
                     </li>
                     <li>
-                        <a href="https://docs.google.com/document/d/1UCn6g9gbaIqjlxUUNAmhfmLmeah_G9LQYaLZNyXY_Jk/edit?usp=sharing">Resume</a>
+                        <a target="_blank" href="https://docs.google.com/document/d/1UCn6g9gbaIqjlxUUNAmhfmLmeah_G9LQYaLZNyXY_Jk/edit?usp=sharing">Resume</a>
                     </li>
                     <li>
-                        <a href="spacehauc.html">Space HAUC</a>
+                        <a href="spacehauc">Space HAUC</a>
                     </li>
                 </ul>
             </div>
@@ -68,14 +68,14 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('img/sugarloaf.jpg')">
+    <header class="intro-header" style="background-image: url('img/cubesat.png')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
-                        <h1>Yusuf Yildiz</h1>
+                        <h1>Space HAUC</h1>
                         <hr class="small">
-                        <span class="subheading">Who Am I? Why Should You Hire Me?</span>
+                        <span class="subheading">What Is It? What Do I Do There?</span>
                     </div>
                 </div>
             </div>
@@ -86,11 +86,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p>I'm currently a programmer for UMass Lowell's Space HAUC initiative which aims to send a cube satellite into orbit by the Fall of 2017. <br>See <a href="spacehauc.html">Space HAUC</a> for more info.</p>
-                <p>Apart from my academic explorations, I previously worked for Greenfield Savings Bank as an IT intern where my job was to handle the distribution of software to 30+ newly acquired computers and to meet with each computer recipient to ensure that they had all of the software on their new machines that they needed for work.</p>
-                <p>Outside of work, I enjoy programming as a hobby. In March 2016, I attended the UMass Lowell Hawkathon. My project, MySisPal, won a silver medal and MLH's Biggest Community Impact award. At the moment MySisPal is under contruction as we are planning on proposing it to the UMass System in the coming months.</p>
-                <p>I also love hiking (that’s Mount Sugarloaf, Deerfield MA in the picture above and one of my favorite places to hike.), running, kayaking, and going to the gym (it’s really great for relieving stress!)</p>
-                <p>If you have questions for me or would like to talk about job opportunities please feel free to contact me.</p>
+                <p>Space HAUC is a fairly new (Feb. 2016) UMass Lowell sponsored program with the goal of sending a <a target="_blank" href="https://en.wikipedia.org/wiki/CubeSat">cube satellite</a> into orbit.</p>
+                <p>My job as the lead programmer on the attitude control system (ACS) team is simply to keep our satellite
+                from tumbling in space and to make sure that it is facing towards the sun in order to keep powering it's solar panels.</p>
+                <p>At the moment, I am working alongside a team of physicists and mechanical engineers to program a satellite simulation environment for our physicists to create . 
+                <p>
             </div>
         </div>
     </div>
